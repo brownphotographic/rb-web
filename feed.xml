@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Rob Brown - Product Lead</title>
-    <link href="https://brownphotographjic.github.io/rb-web/feed.xml" rel="self" />
-    <link href="https://brownphotographjic.github.io/rb-web" />
+    <link href="https://brownphotographic.github.io/rb-web/feed.xml" rel="self" />
+    <link href="https://brownphotographic.github.io/rb-web" />
     <updated>2026-09-24T21:51:50-04:00</updated>
     <author>
         <name>Rob Brown</name>
     </author>
-    <id>https://brownphotographjic.github.io/rb-web</id>
+    <id>https://brownphotographic.github.io/rb-web</id>
 
     <entry>
         <title>About Rob</title>
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographjic.github.io/rb-web/about-rob/"/>
-        <id>https://brownphotographjic.github.io/rb-web/about-rob/</id>
-        <media:content url="https://brownphotographjic.github.io/rb-web/media/posts/9/20240203_20240203_153818-VSCO-2xl.jpg" medium="image" />
+        <link href="https://brownphotographic.github.io/rb-web/about-rob/"/>
+        <id>https://brownphotographic.github.io/rb-web/about-rob/</id>
+        <media:content url="https://brownphotographic.github.io/rb-web/media/posts/9/20240203_20240203_153818-VSCO-2xl.jpg" medium="image" />
 
         <updated>2026-09-20T00:00:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://brownphotographjic.github.io/rb-web/media/posts/9/20240203_20240203_153818-VSCO-2xl.jpg" alt="" />
+                        <img src="https://brownphotographic.github.io/rb-web/media/posts/9/20240203_20240203_153818-VSCO-2xl.jpg" alt="" />
                     For the past 16+ years I have helped physical AI companies through the hardest transition they will face: R&amp;D &gt;&gt; real deployable product &gt;&gt; scale. How I lead: Low ego, teacher, and elevator. I teach instead of dictate, because a team given responsibility outperforms one&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://brownphotographjic.github.io/rb-web/media/posts/9/20240203_20240203_153818-VSCO-2xl.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://brownphotographic.github.io/rb-web/media/posts/9/20240203_20240203_153818-VSCO-2xl.jpg" class="type:primaryImage" alt="" /></p>
                 <p><span style="font-weight: 400;">For the past 16+ years I have helped physical AI companies through the hardest transition they will face: R&amp;D &gt;&gt; real deployable product &gt;&gt; scale.</span></p>
 <p><strong>How I lead:</strong></p>
 <p><span style="font-weight: 400;">Low ego, teacher, and elevator. I teach instead of dictate, because a team given responsibility outperforms one that just follows orders. I lead alongside my team: doing the work with them. My passion is to find team members opportunities to grow and make sure they get seen for it. This is what motivates me.</span></p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/9/gallery/Screenshot-From-2026-09-23-21-34-25.png" data-size="819x750"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/9/gallery/Screenshot-From-2026-09-23-21-34-25-thumbnail.png" alt="" width="768" height="703"></a></figure>
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/9/gallery/Screenshot-From-2026-09-23-21-34-40.png" data-size="1025x771"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/9/gallery/Screenshot-From-2026-09-23-21-34-40-thumbnail.png" alt="" width="768" height="578"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/9/gallery/Screenshot-From-2026-09-23-21-34-25.png" data-size="819x750"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/9/gallery/Screenshot-From-2026-09-23-21-34-25-thumbnail.png" alt="" width="768" height="703"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/9/gallery/Screenshot-From-2026-09-23-21-34-40.png" data-size="1025x771"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/9/gallery/Screenshot-From-2026-09-23-21-34-40-thumbnail.png" alt="" width="768" height="578"></a></figure>
 </div></div>
 <p><strong>Pastimes (too many)</strong></p>
 <ul>
@@ -50,20 +50,20 @@
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographjic.github.io/rb-web/kodiak-ai/"/>
-        <id>https://brownphotographjic.github.io/rb-web/kodiak-ai/</id>
-        <media:content url="https://brownphotographjic.github.io/rb-web/media/posts/3/PXL_20250115_231927917-2.jpg" medium="image" />
+        <link href="https://brownphotographic.github.io/rb-web/kodiak-ai/"/>
+        <id>https://brownphotographic.github.io/rb-web/kodiak-ai/</id>
+        <media:content url="https://brownphotographic.github.io/rb-web/media/posts/3/PXL_20250115_231927917-2.jpg" medium="image" />
 
         <updated>2026-09-19T23:00:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://brownphotographjic.github.io/rb-web/media/posts/3/PXL_20250115_231927917-2.jpg" alt="" />
+                        <img src="https://brownphotographic.github.io/rb-web/media/posts/3/PXL_20250115_231927917-2.jpg" alt="" />
                     As Head of Product at Kodiak, I helped build and launch the world's first driverless commercial trucking fleet, now running 24/7 in the Permian Basin. I am currently leading Product for Kodiak Defense, applying that same autonomy stack to ground autonomy programs for the US&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://brownphotographjic.github.io/rb-web/media/posts/3/PXL_20250115_231927917-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://brownphotographic.github.io/rb-web/media/posts/3/PXL_20250115_231927917-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p><span style="font-weight: 400;">As Head of Product at Kodiak, I helped build and launch the world's first driverless commercial trucking fleet, now running 24/7 in the Permian Basin. I am currently leading Product for Kodiak Defense, applying that same autonomy stack to ground autonomy programs for the US Army, US Marines, and NATO. I help build and nurture close partnerships with major defense primes and OEMs including Textron, GDLS, and US vehicle OEMs.</span></p>
 <p><strong>Kodiak </strong><span style="font-weight: 400;">‐ </span><strong>Head of Product, Defense</strong><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span><span style="font-weight: 400;">2025 - Present</span></p>
 <ul>
@@ -87,20 +87,20 @@
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographjic.github.io/rb-web/motional-aptiv-nutonomy/"/>
-        <id>https://brownphotographjic.github.io/rb-web/motional-aptiv-nutonomy/</id>
-        <media:content url="https://brownphotographjic.github.io/rb-web/media/posts/4/motional_ioniq_5.jpg" medium="image" />
+        <link href="https://brownphotographic.github.io/rb-web/motional-aptiv-nutonomy/"/>
+        <id>https://brownphotographic.github.io/rb-web/motional-aptiv-nutonomy/</id>
+        <media:content url="https://brownphotographic.github.io/rb-web/media/posts/4/motional_ioniq_5.jpg" medium="image" />
 
         <updated>2026-09-19T22:00:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://brownphotographjic.github.io/rb-web/media/posts/4/motional_ioniq_5.jpg" alt="" />
+                        <img src="https://brownphotographic.github.io/rb-web/media/posts/4/motional_ioniq_5.jpg" alt="" />
                     I joined nuTonomy as its first Product Manager (around the time of its acquisition by Delphi/Aptiv) helping the R&amp;D heavy team ship its first driverless product. As Senior Product Director at the resulting Motional, I led product and industrial design for our first driver-out robotaxi&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://brownphotographjic.github.io/rb-web/media/posts/4/motional_ioniq_5.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://brownphotographic.github.io/rb-web/media/posts/4/motional_ioniq_5.jpg" class="type:primaryImage" alt="" /></p>
                 <p><span style="font-weight: 400;">I joined nuTonomy as its first Product Manager (around the time of its acquisition by Delphi/Aptiv) helping the R&amp;D heavy team ship its first driverless product. As Senior Product Director at the resulting Motional, I led product and industrial design for our first driver-out robotaxi deployment (2021), and partnered with Hyundai in South Korea to co-develop the award winning IONIQ 5 robotaxi.</span></p>
 <p><strong>Motional</strong><span style="font-weight: 400;"> - </span><strong>Senior Product Director</strong><span style="font-weight: 400;">: Level 4 Robotaxi and Last Mile Delivery in Las Vegas &amp; LA</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span><span style="font-weight: 400;">2020 – 2022</span></p>
 <ul>
@@ -109,13 +109,13 @@
 </ul>
 <p><i><span style="font-weight: 400;">Article:</span></i><span style="font-weight: 400;"> </span><a href="https://www.wsj.com/articles/motional-previews-the-self-driving-taxi-experience-with-lyft-as-its-first-partner-11634243135?reflink=desktopwebshare_permalink"><span style="font-weight: 400;">WSJ Robotaxi user experience</span></a><span style="font-weight: 400;"> </span></p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/4/gallery/motional_ioniq_5.jpg" data-size="1133x632"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/4/gallery/motional_ioniq_5-thumbnail.jpg" alt="" width="768" height="428"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/4/gallery/motional_ioniq_5.jpg" data-size="1133x632"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/4/gallery/motional_ioniq_5-thumbnail.jpg" alt="" width="768" height="428"></a>
 <figcaption>Hyundai Ioniq 5 Robotaxi</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/4/gallery/motionalunlock.png" data-size="1089x602"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/4/gallery/motionalunlock-thumbnail.png" alt="" width="768" height="425"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/4/gallery/motionalunlock.png" data-size="1089x602"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/4/gallery/motionalunlock-thumbnail.png" alt="" width="768" height="425"></a>
 <figcaption>Motional Passenger UX</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/4/gallery/motional-driverless-2021.jpg" data-size="2560x1708"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/4/gallery/motional-driverless-2021-thumbnail.jpg" alt="" width="768" height="512"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/4/gallery/motional-driverless-2021.jpg" data-size="2560x1708"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/4/gallery/motional-driverless-2021-thumbnail.jpg" alt="" width="768" height="512"></a>
 <figcaption>Driverless Launch 2021</figcaption>
 </figure>
 </div></div>
@@ -127,10 +127,10 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Collaboration with customers (e.g. Lyft, Uber, Grab, Via) to create custom solutions and define system integrations</span></li>
 </ul>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/4/gallery/lyft-aptiv.jpg" data-size="1500x600"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/4/gallery/lyft-aptiv-thumbnail.jpg" alt="" width="768" height="307"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/4/gallery/lyft-aptiv.jpg" data-size="1500x600"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/4/gallery/lyft-aptiv-thumbnail.jpg" alt="" width="768" height="307"></a>
 <figcaption>Aptiv Robotaxi with Lyft paid customers</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/4/gallery/nutonomy-singapore.jpg" data-size="1024x576"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/4/gallery/nutonomy-singapore-thumbnail.jpg" alt="" width="768" height="432"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/4/gallery/nutonomy-singapore.jpg" data-size="1024x576"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/4/gallery/nutonomy-singapore-thumbnail.jpg" alt="" width="768" height="432"></a>
 <figcaption>nuTonomy Singapore - Renault Zoe</figcaption>
 </figure>
 </div></div>
@@ -144,26 +144,26 @@
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographjic.github.io/rb-web/cyphy-works/"/>
-        <id>https://brownphotographjic.github.io/rb-web/cyphy-works/</id>
-        <media:content url="https://brownphotographjic.github.io/rb-web/media/posts/5/20170919_13-08-34-2.jpg" medium="image" />
+        <link href="https://brownphotographic.github.io/rb-web/cyphy-works/"/>
+        <id>https://brownphotographic.github.io/rb-web/cyphy-works/</id>
+        <media:content url="https://brownphotographic.github.io/rb-web/media/posts/5/20170919_13-08-34-2.jpg" medium="image" />
 
         <updated>2026-09-19T21:00:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://brownphotographjic.github.io/rb-web/media/posts/5/20170919_13-08-34-2.jpg" alt="" />
+                        <img src="https://brownphotographic.github.io/rb-web/media/posts/5/20170919_13-08-34-2.jpg" alt="" />
                     I was VP of Product at CyPhy Works, building autonomous ISR drones for the US Army and Navy SOCOM: my first experience taking a defense product from R&amp;D to fielded, wartime use. Unfortunately the company was in financial trouble already when I joined and shuttered&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://brownphotographjic.github.io/rb-web/media/posts/5/20170919_13-08-34-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://brownphotographic.github.io/rb-web/media/posts/5/20170919_13-08-34-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p><span style="font-weight: 400;">I was VP of Product at CyPhy Works, building autonomous ISR drones for the US Army and Navy SOCOM: my first experience taking a defense product from R&amp;D to fielded, wartime use. Unfortunately the company was in financial trouble already when I joined and shuttered shortly following my departure.</span></p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/5/gallery/cyphyworks.png" data-size="1105x736"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/5/gallery/cyphyworks-thumbnail.png" alt="" width="768" height="512"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/5/gallery/cyphyworks.png" data-size="1105x736"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/5/gallery/cyphyworks-thumbnail.png" alt="" width="768" height="512"></a>
 <figcaption>PARC Tethered Defense Drone</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/5/gallery/cyphydeliveryups.png" data-size="1150x745"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/5/gallery/cyphydeliveryups-thumbnail.png" alt="" width="768" height="498"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/5/gallery/cyphydeliveryups.png" data-size="1150x745"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/5/gallery/cyphydeliveryups-thumbnail.png" alt="" width="768" height="498"></a>
 <figcaption>Cyphy hexcopter delivery drone for UPS</figcaption>
 </figure>
 </div></div>
@@ -182,20 +182,20 @@
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographjic.github.io/rb-web/kiva-systems-amazon-robotics/"/>
-        <id>https://brownphotographjic.github.io/rb-web/kiva-systems-amazon-robotics/</id>
-        <media:content url="https://brownphotographjic.github.io/rb-web/media/posts/6/20130222_11-11-03.jpg" medium="image" />
+        <link href="https://brownphotographic.github.io/rb-web/kiva-systems-amazon-robotics/"/>
+        <id>https://brownphotographic.github.io/rb-web/kiva-systems-amazon-robotics/</id>
+        <media:content url="https://brownphotographic.github.io/rb-web/media/posts/6/20130222_11-11-03.jpg" medium="image" />
 
         <updated>2026-09-19T20:00:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://brownphotographjic.github.io/rb-web/media/posts/6/20130222_11-11-03.jpg" alt="" />
+                        <img src="https://brownphotographic.github.io/rb-web/media/posts/6/20130222_11-11-03.jpg" alt="" />
                     I was on the founding product team at Kiva Systems, building the robotic warehouse systems that Amazon acquired for $775M, which became the backbone of Amazon Robotics. I helped scale that technology across Amazon's fulfillment network: cutting costs, deploying new robotics systems, and increasing performance&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://brownphotographjic.github.io/rb-web/media/posts/6/20130222_11-11-03.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://brownphotographic.github.io/rb-web/media/posts/6/20130222_11-11-03.jpg" class="type:primaryImage" alt="" /></p>
                 <p><span style="font-weight: 400;">I was on the founding product team at Kiva Systems, building the robotic warehouse systems that Amazon acquired for $775M, which became the backbone of Amazon Robotics. I helped scale that technology across Amazon's fulfillment network: cutting costs, deploying new robotics systems, and increasing performance (1M+ bots deployed globally today). We succeeded with a low ego, high execution team, inspired and trusted to deliver. I led a team of product managers, mechanical engineers, and TPMs.</span></p>
 <p><strong>Product Manager,</strong><span style="font-weight: 400;"> Kiva Systems (pre Amazon.com acquisition)</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;"> </span><span style="font-weight: 400;">2010 – 2012</span></p>
 <ul>
@@ -203,10 +203,10 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Direct engagement / boots on ground  with customers including Diapers.com, The Gap for product feedback.</span></li>
 </ul>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/6/gallery/kivacommercial.png" data-size="1244x727"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/6/gallery/kivacommercial-thumbnail.png" alt="" width="768" height="449"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/6/gallery/kivacommercial.png" data-size="1244x727"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/6/gallery/kivacommercial-thumbnail.png" alt="" width="768" height="449"></a>
 <figcaption>Kiva System in customer warehouse - pre Amazon Acquisition</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/6/gallery/kivaamazon.png" data-size="1174x659"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/6/gallery/kivaamazon-thumbnail.png" alt="" width="768" height="431"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/6/gallery/kivaamazon.png" data-size="1174x659"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/6/gallery/kivaamazon-thumbnail.png" alt="" width="768" height="431"></a>
 <figcaption>Kiva deployment in Amazon Fulfillment Center</figcaption>
 </figure>
 </div></div>
@@ -221,16 +221,16 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Solution design &amp; deployment of full scale building automation (1M sq ft), and hands-on support through peak operations.</span></li>
 </ul>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/6/gallery/amazonbdl1.png" data-size="1075x604"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/6/gallery/amazonbdl1-thumbnail.png" alt="" width="768" height="432"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/6/gallery/amazonbdl1.png" data-size="1075x604"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/6/gallery/amazonbdl1-thumbnail.png" alt="" width="768" height="432"></a>
 <figcaption>BDL1 1 million square foot DC with wall to wall automation</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/6/gallery/amazonBDL1launch.jpg" data-size="1267x471"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/6/gallery/amazonBDL1launch-thumbnail.jpg" alt="" width="768" height="285"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/6/gallery/amazonBDL1launch.jpg" data-size="1267x471"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/6/gallery/amazonBDL1launch-thumbnail.jpg" alt="" width="768" height="285"></a>
 <figcaption>BDL1 launch team, 2015</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/6/gallery/bdl1bot.png" data-size="973x648"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/6/gallery/bdl1bot-thumbnail.png" alt="" width="768" height="511"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/6/gallery/bdl1bot.png" data-size="973x648"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/6/gallery/bdl1bot-thumbnail.png" alt="" width="768" height="511"></a>
 <figcaption>Kiva robot in BDL1, 2015</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/6/gallery/bdl1-pick.png" data-size="1204x801"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/6/gallery/bdl1-pick-thumbnail.png" alt="" width="768" height="511"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/6/gallery/bdl1-pick.png" data-size="1204x801"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/6/gallery/bdl1-pick-thumbnail.png" alt="" width="768" height="511"></a>
 <figcaption>Amazon warehouse worker, BDL1</figcaption>
 </figure>
 </div></div>
@@ -245,20 +245,20 @@
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographjic.github.io/rb-web/prior-roles/"/>
-        <id>https://brownphotographjic.github.io/rb-web/prior-roles/</id>
-        <media:content url="https://brownphotographjic.github.io/rb-web/media/posts/7/m25.png" medium="image" />
+        <link href="https://brownphotographic.github.io/rb-web/prior-roles/"/>
+        <id>https://brownphotographic.github.io/rb-web/prior-roles/</id>
+        <media:content url="https://brownphotographic.github.io/rb-web/media/posts/7/m25.png" medium="image" />
 
         <updated>2026-09-19T19:00:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://brownphotographjic.github.io/rb-web/media/posts/7/m25.png" alt="" />
+                        <img src="https://brownphotographic.github.io/rb-web/media/posts/7/m25.png" alt="" />
                     GIS Analyst, Product Manager, BT Global Access - 2002 - 2007 GIS Consultant, Pavement Engineering Org serving UK Highways agencies 2001-2002 Mapping systems development, and map creation to support major UK managed motortway networks. Supported the first smart motorway network coupling real time traffic sensing&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://brownphotographjic.github.io/rb-web/media/posts/7/m25.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://brownphotographic.github.io/rb-web/media/posts/7/m25.png" class="type:primaryImage" alt="" /></p>
                 <p><strong>GIS Analyst, Product Manager, BT Global Access  - 2002 - 2007</strong></p>
 <ul>
 <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">GIS and database modeling for commercial Access (broadband) pricing across 25 global countries down to street level.</span></li>
@@ -266,10 +266,10 @@
 <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Promoted to Product Manager to drive specifications for real-time global access pricing engine.</span></li>
 </ul>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/7/gallery/accessconcept.png" data-size="445x441"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/7/gallery/accessconcept-thumbnail.png" alt="" width="445" height="441"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/7/gallery/accessconcept.png" data-size="445x441"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/7/gallery/accessconcept-thumbnail.png" alt="" width="445" height="441"></a>
 <figcaption>Global City Access Postcodes</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/7/gallery/accessconcept2.png" data-size="319x298"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/7/gallery/accessconcept2-thumbnail.png" alt="" width="319" height="298"></a>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/7/gallery/accessconcept2.png" data-size="319x298"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/7/gallery/accessconcept2-thumbnail.png" alt="" width="319" height="298"></a>
 <figcaption>Global access networks</figcaption>
 </figure>
 </div></div>
@@ -281,9 +281,9 @@
 <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Trained GIS technicians in Perth, Scotland to digitize road network for national truck-based road condition survey</span></li>
 </ul>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/7/gallery/m25.png" data-size="1342x722"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/7/gallery/m25-thumbnail.png" alt="" width="768" height="413"></a></figure>
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/7/gallery/m25sphere.png" data-size="737x654"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/7/gallery/m25sphere-thumbnail.png" alt="" width="737" height="654"></a></figure>
-<figure class="gallery__item"><a href="https://brownphotographjic.github.io/rb-web/media/posts/7/gallery/unnamed.png" data-size="861x573"><img loading="lazy" src="https://brownphotographjic.github.io/rb-web/media/posts/7/gallery/unnamed-thumbnail.png" alt="" width="768" height="511"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/7/gallery/m25.png" data-size="1342x722"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/7/gallery/m25-thumbnail.png" alt="" width="768" height="413"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/7/gallery/m25sphere.png" data-size="737x654"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/7/gallery/m25sphere-thumbnail.png" alt="" width="737" height="654"></a></figure>
+<figure class="gallery__item"><a href="https://brownphotographic.github.io/rb-web/media/posts/7/gallery/unnamed.png" data-size="861x573"><img loading="lazy" src="https://brownphotographic.github.io/rb-web/media/posts/7/gallery/unnamed-thumbnail.png" alt="" width="768" height="511"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -293,27 +293,27 @@
         <author>
             <name>Rob Brown</name>
         </author>
-        <link href="https://brownphotographjic.github.io/rb-web/education/"/>
-        <id>https://brownphotographjic.github.io/rb-web/education/</id>
-        <media:content url="https://brownphotographjic.github.io/rb-web/media/posts/8/20171128_20-14-25.jpg" medium="image" />
+        <link href="https://brownphotographic.github.io/rb-web/education/"/>
+        <id>https://brownphotographic.github.io/rb-web/education/</id>
+        <media:content url="https://brownphotographic.github.io/rb-web/media/posts/8/20171128_20-14-25.jpg" medium="image" />
 
         <updated>2026-09-19T18:00:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://brownphotographjic.github.io/rb-web/media/posts/8/20171128_20-14-25.jpg" alt="" />
+                        <img src="https://brownphotographic.github.io/rb-web/media/posts/8/20171128_20-14-25.jpg" alt="" />
                     My path into physical AI started with maps. I hold a Master's in Geographical Information Science (Distinction) from the University of Nottingham, and a BSc in Geography and Topographic Science from Swansea University. While my studies in the technical challenges of sensing, mapping and localization&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://brownphotographjic.github.io/rb-web/media/posts/8/20171128_20-14-25.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://brownphotographic.github.io/rb-web/media/posts/8/20171128_20-14-25.jpg" class="type:primaryImage" alt="" /></p>
                 <p><span style="font-weight: 400;">My path into physical AI started with maps. I hold a Master's in Geographical Information Science (Distinction) from the University of Nottingham, and a BSc in Geography and Topographic Science from Swansea University. While my studies in the technical challenges of sensing, mapping and localization were before the time of integration into robotics, this foundation has served me well in every application of automation.</span></p>
 <p><strong>Education</strong><strong>:</strong></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">MSc (Distinction) Geographical Information Science, University of Nottingham, UK</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">BSc (Hons) Geography and Topographic Science, University of Wales Swansea, UK</span></li>
 </ul>
-<figure class="post__image"><img loading="lazy"  src="https://brownphotographjic.github.io/rb-web/media/posts/8/Screenshot-From-2026-09-23-21-06-04.png" alt="" width="687" height="833" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://brownphotographjic.github.io/rb-web/media/posts/8/responsive/Screenshot-From-2026-09-23-21-06-04-xs.png 300w ,https://brownphotographjic.github.io/rb-web/media/posts/8/responsive/Screenshot-From-2026-09-23-21-06-04-sm.png 480w ,https://brownphotographjic.github.io/rb-web/media/posts/8/responsive/Screenshot-From-2026-09-23-21-06-04-md.png 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://brownphotographic.github.io/rb-web/media/posts/8/Screenshot-From-2026-09-23-21-06-04.png" alt="" width="687" height="833" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://brownphotographic.github.io/rb-web/media/posts/8/responsive/Screenshot-From-2026-09-23-21-06-04-xs.png 300w ,https://brownphotographic.github.io/rb-web/media/posts/8/responsive/Screenshot-From-2026-09-23-21-06-04-sm.png 480w ,https://brownphotographic.github.io/rb-web/media/posts/8/responsive/Screenshot-From-2026-09-23-21-06-04-md.png 768w"></figure>
             ]]>
         </content>
     </entry>
