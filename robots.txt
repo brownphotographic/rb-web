@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://brownphotographjic.github.io/rb-web/sitemap.xml
