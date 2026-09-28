@@ -3,36 +3,41 @@
     <title>Rob Brown</title>
     <link href="https://robbrown.org/feed.xml" rel="self" />
     <link href="https://robbrown.org" />
-    <updated>2026-09-26T19:22:08-04:00</updated>
+    <updated>2026-09-28T08:53:38-04:00</updated>
     <author>
         <name>Rob Brown</name>
     </author>
     <id>https://robbrown.org</id>
 
     <entry>
-        <title>About Rob</title>
+        <title>About &amp; Contact</title>
         <author>
             <name>Rob Brown</name>
         </author>
         <link href="https://robbrown.org/about-rob/"/>
         <id>https://robbrown.org/about-rob/</id>
-        <media:content url="https://robbrown.org/media/posts/9/20240203_20240203_153818-VSCO-2xl-2.jpg" medium="image" />
+        <media:content url="https://robbrown.org/media/posts/9/headshot-w-background.png" medium="image" />
 
         <updated>2026-09-20T00:00:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://robbrown.org/media/posts/9/20240203_20240203_153818-VSCO-2xl-2.jpg" alt="" />
+                        <img src="https://robbrown.org/media/posts/9/headshot-w-background.png" alt="" />
                     I turn 'it works in the lab' into 'it performs real work'. For the past 16+ years I have helped physical AI companies through the hardest transition they will face: R&amp;D→real deployable product → scale.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://robbrown.org/media/posts/9/20240203_20240203_153818-VSCO-2xl-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://robbrown.org/media/posts/9/headshot-w-background.png" class="type:primaryImage" alt="" /></p>
                 <h4>I turn 'it works in the lab' into 'it performs real work'.</h4>
 <p><span style="font-weight: 400;">For the past 16+ years I have helped physical AI companies through the hardest transition they will face: R&amp;D→real deployable product → scale.</span></p>
+<p>Ex Kiva Systems (Amazon.com), nuTonomy/Motional, current: Kodiak AI. </p>
 <p dir="ltr"><strong>Where I'm most useful:</strong> startups that need a generalist who is creative, deeply technical, and able to sit with a customer and get to the heart of what they actually need. Then I roll up my sleeves, work shoulder to shoulder with the engineers, and get it shipped.</p>
 <p dir="ltr"><strong>Where I'm not the right fit:</strong> roles that are mostly about directing from a distance, where leadership means pushing timelines from behind a desk rather than being in the work. I lead from inside the team, not above it.</p>
 <p dir="ltr"><strong>How I lead:</strong> Low ego. I teach rather than dictate, because a team trusted with responsibility outperforms one that just follows orders. I do the work alongside my team. What motivates me most is finding people opportunities to grow and making sure they get recognized for it.</p>
+<h4><strong>Contact</strong></h4>
+<p>Want to collaborate? Get in touch!</p>
+<p><a href="mailto:info@robbrown.org" class="obfuscated-email">info@robbrown.org</a></p>
+<p><a href="https://www.linkedin.com/in/rbwn/">https://www.linkedin.com/in/rbwn/</a></p>
 <h4><strong>Outside Work</strong></h4>
 <ul>
 <li>Photography: <a href="http://www.brownphotographic.com">www.brownphotographic.com</a></li>
@@ -314,28 +319,6 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">BSc (Hons) Geography and Topographic Science, University of Wales Swansea, UK</span></li>
 </ul>
 <figure class="post__image"><img loading="lazy"  src="https://robbrown.org/media/posts/8/Screenshot-From-2026-09-23-21-06-04.png" alt="" width="687" height="833" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://robbrown.org/media/posts/8/responsive/Screenshot-From-2026-09-23-21-06-04-xs.png 300w ,https://robbrown.org/media/posts/8/responsive/Screenshot-From-2026-09-23-21-06-04-sm.png 480w ,https://robbrown.org/media/posts/8/responsive/Screenshot-From-2026-09-23-21-06-04-md.png 768w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contact</title>
-        <author>
-            <name>Rob Brown</name>
-        </author>
-        <link href="https://robbrown.org/contact-2/"/>
-        <id>https://robbrown.org/contact-2/</id>
-
-        <updated>2026-09-18T17:00:00-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Want to collaborate? Get in touch! info@robbrown.org https://www.linkedin.com/in/rbwn/
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Want to collaborate? Get in touch!</p>
-<p><a href="mailto:info@robbrown.org">info@robbrown.org</a></p>
-<p><a href="https://www.linkedin.com/in/rbwn/">https://www.linkedin.com/in/rbwn/</a></p>
             ]]>
         </content>
     </entry>
